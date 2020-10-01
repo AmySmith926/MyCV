@@ -7,10 +7,10 @@ This is a webpage of my CV.
 ### Technologies
 HTML and  CSS.
 
-leftcolumn card | Tertiary Education Card
-----------------|------------|-----------|-----------|
-What can an employer expect from me?
-List of my attributes.
+My CV
+left column |Tertiary Education Card |right column Card|interests card|contact me card|
+------------|------------------------|-----------------|--------------|---------------|
+A list of what an employer can expect from me.|List of my education|Photo of me|My interests|My contact details|
 
 
 https://amysmith926.github.io/MyCV/
